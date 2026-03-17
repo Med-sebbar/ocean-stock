@@ -1,7 +1,7 @@
 # 🌊 Ocean Stock — Système de Gestion de Stock
 
 > Projet Personnel 
-> Application web local complète de gestion de stock
+> Application web locale complète de gestion de stock
 
 ---
 
